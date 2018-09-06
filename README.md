@@ -1,5 +1,5 @@
 # JS-HashSort
-A performant sorting function for duplicate values - O(n)
+A performant sorting function for duplicate values - O(n log u)
 
 Uses a 'hash' table to store duplicate values, sorts the unique values, then returns the full sorted array.
 
